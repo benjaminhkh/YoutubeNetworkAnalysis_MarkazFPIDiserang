@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Benjamin Hu"
+  },
+  "text": {
+    "more": "Graph shows the network of Youtube videos connected and stemming from the source video - Markaz Besar DPP FPI Petamburan di serang polisi (Markaz FPI Diserang)\n\nNode size: Betweenness Centraliy \nMax Betweenness Centrality: 124.18\n(Komentar Ketua FPI Terkait Ricuh di Kawasan Petamburan)\n\nLabel size: Node Degree\nMax Degree: 43 (out-degree 43, in-degree 0)\n(Markaz Besar DPP FPI Petamburan di serang polisi / Markaz FPI Diserang)\n\nCrawl Depth: 1",
+    "intro": "Graph shows the network of Youtube videos connected and stemming from the source video - Markaz Besar DPP FPI Petamburan di serang polisi (Markaz FPI Diserang), varied by betweenness centrality and network degree. Curved lines (edges) on the graphs show direction - clockwise edges denote source youtube video connecting to target youtube video and vice versa.",
+    "title": "Youtube Video Network based on Markaz FPI Diserang"
+  },
+  "legend": {
+    "edgeLabel": "Connection",
+    "colorLabel": "Modularity Class",
+    "nodeLabel": "Youtube Video"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.7,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 2,
+      "maxNodeSize": 8
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
