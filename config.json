@@ -1,6 +1,6 @@
 {
   "type": "network",
-  "version": "1.2",
+  "version": "1.3",
   "data": "data.json",
   "logo": {
     "file": "",
@@ -10,7 +10,7 @@
   "text": {
     "more": "Graph shows the network of Youtube videos connected and stemming from the source video - Markaz Besar DPP FPI Petamburan di serang polisi (Markaz FPI Diserang)\n\nNode size: Betweenness Centraliy \nMax Betweenness Centrality: 124.18\n(Komentar Ketua FPI Terkait Ricuh di Kawasan Petamburan)\n\nLabel size: Node Degree\nMax Degree: 43 (out-degree 43, in-degree 0)\n(Markaz Besar DPP FPI Petamburan di serang polisi / Markaz FPI Diserang)\n\nCrawl Depth: 1",
     "intro": "Graph shows the network of Youtube videos connected and stemming from the source video - Markaz Besar DPP FPI Petamburan di serang polisi (Markaz FPI Diserang), varied by betweenness centrality and network degree. Curved lines (edges) on the graphs show direction - clockwise edges denote source youtube video connecting to target youtube video and vice versa.",
-    "title": "Youtube Video Network based on Markaz FPI Diserang"
+    "title": "Network Analysis of Youtube Video: Markaz FPI Diserang"
   },
   "legend": {
     "edgeLabel": "Link between two Youtube Video",
