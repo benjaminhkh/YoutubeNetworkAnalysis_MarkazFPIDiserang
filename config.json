@@ -13,7 +13,7 @@
     "title": "Network Analysis of Youtube Video: Markaz FPI Diserang"
   },
   "legend": {
-    "edgeLabel": "Link between two Youtube Video",
+    "edgeLabel": "Link between two Youtube videos",
     "colorLabel": "Video Category",
     "nodeLabel": "Youtube Video"
   },
