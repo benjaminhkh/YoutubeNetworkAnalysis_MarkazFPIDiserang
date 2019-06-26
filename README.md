@@ -4,6 +4,9 @@ Graph shows the network of Youtube videos connected and stemming from the source
 
 **> Interactive version of the graph (Beta): https://nebnebnebneb.github.io/YoutubeNetworkMarkazFPIDiserang/
 
+<a href="https://nebnebnebneb.github.io/YoutubeNetworkMarkazFPIDiserang/ "><img src="https://raw.githubusercontent.com/nebnebnebneb/YoutubeNetworkMarkazFPIDiserang/master/images/illustration.png" alt="Network Analysis of Youtube Video: Markaz FPI Diserang"></a>
+
+
 # Description 
 
 Curved lines (edges) on the graphs show direction. Clockwise edges denote source youtube video connecting to target youtube video and vice versa.
