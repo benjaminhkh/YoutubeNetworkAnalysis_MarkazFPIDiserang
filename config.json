@@ -13,8 +13,8 @@
     "title": "Youtube Video Network based on Markaz FPI Diserang"
   },
   "legend": {
-    "edgeLabel": "Connection",
-    "colorLabel": "Modularity Class",
+    "edgeLabel": "Link between two Youtube Video",
+    "colorLabel": "Video Category",
     "nodeLabel": "Youtube Video"
   },
   "features": {
