@@ -16,6 +16,8 @@ Curved lines (edges) on the graphs show direction. Clockwise edges denote source
 **Max Betweenness Centrality:** 124.18
 (Komentar Ketua FPI Terkait Ricuh di Kawasan Petamburan)
 
+>*Betweeness centrality* is the number of times a node falls along the shortest paths between two other nodes, representing the influence  of a node over the flow of information in a network.
+
 **Label size:** Node Degree
 
 **Max Degree:** 43 (out-degree 43, in-degree 0)
