@@ -27,6 +27,13 @@ Curved lines (edges) on the graphs show direction. Clockwise edges denote source
 
 **Crawl Depth:** 1
 
+**Video Categories in Legend**
+Group 1 - People and Blogs
+Group 2 - Gaming
+Group 3 - News and Politics
+Group 4 - Entertainment
+Group 5 - Music
+
 # Credits
 
 ISEAS - Yusof Ishak Institute. (2019) ISEAS - Yusof Ishak Institute.
