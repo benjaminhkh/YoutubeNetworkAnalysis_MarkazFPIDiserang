@@ -23,16 +23,16 @@ Curved lines (edges) on the graphs show direction. Clockwise edges denote source
 **Label size:** Node Degree
 
 **Max Degree:** 43 (out-degree 43, in-degree 0)
-(Markaz Besar DPP FPI Petamburan di serang polisi / Markaz FPI Diserang)
+* (Markaz Besar DPP FPI Petamburan di serang polisi / Markaz FPI Diserang)
 
 **Crawl Depth:** 1
 
 **Video Categories in Legend**
-Group 1 - People and Blogs
-Group 2 - Gaming
-Group 3 - News and Politics
-Group 4 - Entertainment
-Group 5 - Music
+* Group 1 - People and Blogs
+* Group 2 - Gaming
+* Group 3 - News and Politics
+* Group 4 - Entertainment
+* Group 5 - Music
 
 # Credits
 
