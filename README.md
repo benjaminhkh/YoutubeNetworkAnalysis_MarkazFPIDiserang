@@ -1,6 +1,6 @@
 # Network Analysis of Youtube Video: Markaz FPI Diserang (Beta)
 
-Graph shows the network of Youtube videos connected and stemming from the source video - Markaz Besar DPP FPI Petamburan di serang polisi (Markaz FPI Diserang), made with the [Sigmajs](http://sigmajs.org) plugin for [Gephi](http://gephi.org).
+Graph that shows the network of Youtube videos connected and stemming from the source video - "Markaz Besar DPP FPI Petamburan di serang polisi (Markaz FPI Diserang)", made with the [Sigmajs](http://sigmajs.org) plugin for [Gephi](http://gephi.org).
 
 **> Interactive version of the graph (Beta): https://benjaminhkh.github.io/YoutubeNetworkAnalysis_MarkazFPIDiserang/
 
