@@ -11,7 +11,9 @@ Graph that shows the network of Youtube videos connected and stemming from the s
 
 # Description 
 
-The output graph shows the network of relations between videos stemming from the source video, based on similar relations. If a video from one channel points to the video of another channel, an edge is created and the more often that happens, the more weight the connection gets.
+The output graph shows the network of relations between videos stemming from the source video, based on similar relations. If a video from one channel points to the video of another channel, an edge is created and the more often that happens, the more weight the connection gets. 
+
+"With the recommendation algorithms, we can visualize the path from video to video that the viewer can be taken on via the various levels of recommendations. In addition, we would be able to see any jumps in genre that might illustrate problematic paths that a user could take when going from video to video (e.g. from news to entertainment to satire/conspiracy) without realizing the shift." (Temple University)
 
 Curved lines (edges) on the graphs show direction. Clockwise edges denote source youtube video connecting to target youtube video and vice versa.
 
