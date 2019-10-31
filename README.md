@@ -11,6 +11,8 @@ Graph that shows the network of Youtube videos connected and stemming from the s
 
 # Description 
 
+The output graph shows the network of relations between videos stemming from the source video, based on similar relations. If a video from one channel points to the video of another channel, an edge is created and the more often that happens, the more weight the connection gets.
+
 Curved lines (edges) on the graphs show direction. Clockwise edges denote source youtube video connecting to target youtube video and vice versa.
 
 **Node size:** Betweenness Centrality 
@@ -38,7 +40,7 @@ Curved lines (edges) on the graphs show direction. Clockwise edges denote source
 
 ISEAS - Yusof Ishak Institute. (2019) ISEAS - Yusof Ishak Institute.
 
-Graph generated based on https://sites.temple.edu/tudsc/2019/03/26/network-analysis-on-youtube/
+Graph generated based on the Video Network Module produced by Temple University https://sites.temple.edu/tudsc/2019/03/26/network-analysis-on-youtube/
 
 Template provided by InteractiveVis project
 http://blogs.oii.ox.ac.uk/vis/
